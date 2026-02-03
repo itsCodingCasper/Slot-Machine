@@ -85,3 +85,6 @@ This range is consistent with real-world slot machines.
 ### Play the game
 ```bash
 python slot.py
+
+###Run the simulation:
+python slots_simulation.py
